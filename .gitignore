@@ -1,0 +1,8 @@
+out/
+tasks.txt
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
